@@ -1,1 +1,1 @@
-# Healthcare Information System for SMKDEV Backend with SpringBoot Learning Path
+# HealthNex: Healthcare Information System with Java & SpringBoot
